@@ -139,4 +139,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Provider Package](https://pub.dev/packages/provider)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
+## Contact
+
+Jay Dutonde - jaydutonde12@gmail.com
       
